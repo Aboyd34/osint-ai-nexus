@@ -1,0 +1,5 @@
+{
+  "name": "OSINT-AI Nexus",
+  "description": "A professional OSINT dashboard integrating traditional intelligence gathering with Gemini AI analysis. Features phone, email, and dark web lookup visualizations.",
+  "requestFramePermissions": []
+}
